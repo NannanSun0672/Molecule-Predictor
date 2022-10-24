@@ -1,6 +1,6 @@
 # MolPredbyMPNN
 
-Build a molecule affinity values  predictor by MPNN 
+Build a molecule affinity values  predictor by MPNN and machine learning
 
 ## Dataset
 * covid-19 3CL pro 的已知活性分子

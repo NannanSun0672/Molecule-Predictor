@@ -7,6 +7,7 @@ Build a molecule affinity values  predictor by MPNN
 ## Dependencies
 Firstly, ensure that the version of your Python >= 3.7. We recommend Anaconda to manage the version of Python and installed packages.
 * numpy >= 1.19
+* Scikit-Learn >= 0.23
 * Pandas >= 1.2.2
 * PyTorch == 1.6
 * Matplotlib >= 2.0

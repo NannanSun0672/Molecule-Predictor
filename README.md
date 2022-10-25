@@ -15,14 +15,21 @@ Firstly, ensure that the version of your Python >= 3.7. We recommend Anaconda to
 ## Usage
 
 * ML-predictor/train.py 
+
   Training the predictor under the machine learning methods
 * ML-predictor/models/classifier.py
+
   DNN algorithm
 * ML-predictor/utils/objective.py
+
   calculating the fingerprint of moleculer and Physical and Chemical Properties
+  
 * ML-predictor/utils/sascorer.py
+
   calculating the SA
 * mpnn-predictor/Train.py
+
   Training the predictor via MPNN algorithm
+  
 * models/*.py
   It contains all of the deep learning models that possibly used in this project
